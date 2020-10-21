@@ -8,7 +8,7 @@ function addTarea(fecha, materia, descripcion, realizada) {
   // nextId(), fecha, materia, descripcion, realizada
   //
   //
-  // PARA HACER
+  // PARA HACER cjkdsbvi ludeVCIUDGIU DEGUV  is
   // añadir la nueva tarea a la variable tareas. Usar push
   //
   //
